@@ -1,1 +1,1 @@
-web: gunicorn project.wsgi
+web: gunicorn travelguide_app.wsgi
